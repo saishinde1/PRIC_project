@@ -33,10 +33,10 @@ User Management is a simple Next.js project with CRUD functionality for managing
    npm install
    ```
 
-3. **Set up Firebase:**
-   - Create a Firebase project on the [Firebase Console](https://console.firebase.google.com/).
-   - Enable Firestore in the Firebase project.
-   - Copy the Firebase configuration object and replace it in `firebase.js` file.
+3. **If you want set up your own firestore database:**
+   - Create a firestore database on the [Firebase Console](https://console.firebase.google.com/).
+   - Enable Firestore in the Firebase. 
+   - Copy the Firebase configuration object and replace it in `firebase.ts` file.
 
 4. **Run the application:**
    ```bash

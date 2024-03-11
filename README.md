@@ -63,3 +63,6 @@ To run the application using Docker, follow these steps:
 - `firebase`: The Firebase SDK for JavaScript.
 - `firebase/firestore`: Specific Firestore module for Firebase.
 - `tailwindcss`: A utility-first CSS framework for quickly building custom designs.
+  
+   ```bash
+   npm install react-toastify firebase tailwindcss

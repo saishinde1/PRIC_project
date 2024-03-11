@@ -16,7 +16,6 @@ User Management is a simple Next.js project with CRUD functionality for managing
 
 ## Technologies Used
 - Next.js
-- React
 - Firebase Firestore
 - Tailwind CSS
 - Docker
@@ -58,11 +57,10 @@ To run the application using Docker, follow these steps:
    Visit [http://localhost:3000](http://localhost:3000) to view the application.
 
 ## Imported Packages
-- `react`: A JavaScript library for building user interfaces.
 - `react-toastify`: A library for displaying toast notifications in React applications.
 - `firebase`: The Firebase SDK for JavaScript.
 - `firebase/firestore`: Specific Firestore module for Firebase.
 - `tailwindcss`: A utility-first CSS framework for quickly building custom designs.
   
    ```bash
-   npm install react-toastify firebase tailwindcss
+   npm install -toastify firebase tailwindcss
